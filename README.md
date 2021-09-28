@@ -10,6 +10,12 @@ Nesta aula, baixamos o código do https://github.com/rocketseat-experts-club/ent
 <li><a href="https://docs.microsoft.com/pt-br/ef/core/providers/?tabs=dotnet-core-cli" rel="nofollow">Provedores de Banco de Dados</a></li>
 </ul>
 
+<h3><a id="user-content-requisitos" class="anchor" aria-hidden="true" href="#links"></a>Programas utilizados na Aula</h3>
+<ul>
+<li><a href="https://visualstudio.microsoft.com/pt-br/thank-you-downloading-visual-studio/?sku=Community&rel=16" rel="nofollow">Visual Studio Community</a></li>
+<li><a href="https://go.microsoft.com/fwlink/?linkid=866662" rel="nofollow">SQL Server Developer</a></li>
+</ul>
+
 ## Expert
 
 | [<img src="https://avatars.githubusercontent.com/u/32483148?v=4" width="75px;"/>](https://github.com/RodolfoRCamargo) |
